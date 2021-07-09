@@ -6,6 +6,9 @@
 - 👯 I’m looking to collaborate with Internship
 - 💬 Ask me about Python , ML
 - 📫 How to reach me: dineshreddy7707@gmail.com
+- [Kaggle](https://www.kaggle.com/alwaysddr)
+- [Machine Hack](https://machinehack.com/user/profile/ui/60c70eaafb1df670c08626c2)
+- [Linkedin](https://www.linkedin.com/in/dinesh-reddy-donthireddy-b409771a1/) 
 
 
 ### Skills
