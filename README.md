@@ -1,6 +1,6 @@
 ## Hola , DINESH REDDY here👋
 
-
+- Upcomming Analyst at DELOITTE USI......(not done yet)
 - 🔭 I’m currently working on Machine Learning and Deep Learning
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate with Internship
