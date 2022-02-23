@@ -1,10 +1,9 @@
 ## Hola , DINESH REDDY here👋
 
 - Intern , Upcomming Network Test Engineer at Sandvine Technologies........
-- 🔭 I’m currently working on Machine Learning and Deep Learning
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate with Internship
-- 💬 Ask me about Python , ML
+- 🌱 I’m currently working on Web Development
+- 🔭 Machine Learning and Deep Learning Enthusiast
+- 💬 Ask me about Python , Machine Learning
 - 📫 How to reach me: dineshreddy7707@gmail.com
 
 ### Profiles
